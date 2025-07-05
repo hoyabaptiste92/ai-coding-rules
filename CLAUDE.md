@@ -1,4 +1,4 @@
-# Claude Code Guidelines by Sabrina Ramonov
+# Claude Code Guidelines by Sabrina Ramonov 🍄
 
 ## Implementation Best Practices
 
